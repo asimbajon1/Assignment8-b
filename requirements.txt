@@ -1,0 +1,10 @@
+# app
+sqlalchemy<2
+flask
+psycopg2-binary
+
+# tests
+pytest
+pytest-icdiff
+mypy
+requests

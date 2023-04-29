@@ -4,8 +4,10 @@
 py -3 -m venv venv
 
 ## Pip installs
+```
 pip install -r requirements.txt
 pip install -e src/
+```
 
 ## Running the tests
 ```

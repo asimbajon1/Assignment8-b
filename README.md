@@ -1,7 +1,9 @@
 # Instructions and Guidelines
 
 ## Creating a local virtual environment
+```
 py -3 -m venv venv
+```
 
 ## Pip installs
 ```

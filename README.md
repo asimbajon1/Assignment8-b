@@ -2,7 +2,7 @@
 
 ## Notes
 ```
-I'm a beginner on Python and did my best to diagnose problems. On e2e testing, database credentials are defined 
+I'm a Python beginner and did my best to diagnose problems. On e2e testing, database credentials are defined 
     in the config.py module, but not sure why database does not connect in the test environment.
 ```
 
